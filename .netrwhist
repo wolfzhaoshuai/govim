@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/dongfanliang/.vim/bundle/ctrlp'
+let g:netrw_dirhist_2='/home/dongfanliang/golang/src/MtFalcon/pingmonitor/funcs'
+let g:netrw_dirhist_3='/home/dongfanliang/transfer_proxy/proc'
+let g:netrw_dirhist_4='/home/dongfanliang/transfer_proxy/sender'
+let g:netrw_dirhist_5='/home/dongfanliang/golang/src/MtFalcon/transfer_proxy'
+let g:netrw_dirhist_6='/home/dongfanliang/git/sitemonitor'
